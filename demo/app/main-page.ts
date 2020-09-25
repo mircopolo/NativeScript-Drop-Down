@@ -1,5 +1,5 @@
-import { EventData, Observable } from "data/observable";
-import * as pages from "ui/page";
+import { EventData, Observable } from "tns-core-modules/data/observable";
+import * as pages from "tns-core-modules/ui/page";
 
 import { DropDown, SelectedIndexChangedEventData, ValueList } from "nativescript-drop-down";
 
